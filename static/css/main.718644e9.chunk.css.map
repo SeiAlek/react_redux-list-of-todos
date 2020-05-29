@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,eACE,iBAAkB,CACnB,uBAGC,eAAgB","file":"main.718644e9.chunk.css","sourcesContent":[".table {\n  &__header {\n    font-size: 1.25rem;\n  }\n\n  &__header-content {\n    margin-top: 10px;\n  }\n}\n"]}
